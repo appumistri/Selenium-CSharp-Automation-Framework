@@ -3,3 +3,9 @@
 ################################################################################
 
 /Aviva.Automation.Framework/bin/Debug
+/Aviva.Automation.Framework/.vs/Aviva.Automation.Framework/v15
+/packages
+/TestResults
+/Aviva.Automation.Framework/obj/Debug
+/Aviva.Automation.Framework/packages
+/Aviva.Automation.Framework/TestResults
