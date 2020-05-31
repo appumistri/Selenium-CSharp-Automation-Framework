@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
@@ -11,3 +11,5 @@
 /Aviva.Automation.Framework/TestResults
 /.vs/Aviva.Automation.Framework/v15
 /Aviva.Automation.Framework/ExtentReports
+.vs/
+*.user
